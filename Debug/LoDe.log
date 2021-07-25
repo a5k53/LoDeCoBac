@@ -1,0 +1,3 @@
+﻿  CoBac.c
+C:\Users\KFK\source\repos\LoDe\LoDe\CoBac.c(7,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LoDe.vcxproj -> C:\Users\KFK\source\repos\LoDe\Debug\LoDe.exe
